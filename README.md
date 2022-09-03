@@ -1,6 +1,5 @@
 <h2> 🤙 Oi, Eu sou Rodrigo Luiz de França!</h2> 
 
-[![Twitter: Rodrigo Luiz de França](https://img.shields.io/twitter/follow/rodrigolfranca?style=social)](https://twitter.com/rodrigolfranca)
 [![GitHub rodrigolfranca](https://img.shields.io/github/followers/rodrigolfranca?label=follow&style=social)](https://github.com/rodrigolfranca)
 
 
