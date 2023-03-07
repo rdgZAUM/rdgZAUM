@@ -9,14 +9,13 @@
 
 const rodrigo = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [React, Node, Styled-Components, Django],
+  code: [HTML, CSS, Javascript, Python, C#, SQL],
+  tools: [React, NodeJS, Styled-Components, Django],
   techCommunities: {
-                        aspirante: "Alpha edTech",
-                        mentor: "Luana Lessa"
-                      },
+                        first: "Alpha edTech",
+                        second: "Kenzie Academy"
+  },
   funFact: "Eu tenho bugs de estimação"
-
 }
 
 ```
